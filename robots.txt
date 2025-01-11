@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /login
+Sitemap:https://litonkumar51810.github.io/XZC/sitemap_index.txt
+Sitemap:https://litonkumar51810.github.io/ZUL/sitemap_index.txt
+Sitemap:https://litonkumar51810.github.io/DOW/sitemap_index.txt
+Sitemap:https://litonkumar51810.github.io/OLG/sitemap_index.txt
+Sitemap:https://litonkumar51810.github.io/BTZ/sitemap_index.txt
